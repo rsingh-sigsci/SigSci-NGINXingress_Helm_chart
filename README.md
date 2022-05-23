@@ -1,6 +1,8 @@
 ## Installing NGINX Ingress Controller + Signal Sciences next-gen WAF using Helm
 
-### Introduction:
+### Note:  This repository is provided 'as-is' as a guide to installing the Signal Sciences WAF agent and NGINX ingress via Helm.
+
+### Description:
 
 This repository contains an example of embedding the Signal Sciences Agent in the [ingress-nginx](https://github.com/kubernetes/ingress-nginx) Ingress controller installed via the [Helm](https://github.com/helm/charts/tree/master/stable/nginx-ingress) package manager:
 
