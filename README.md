@@ -1,6 +1,6 @@
 ## Installing NGINX Ingress Controller + Signal Sciences next-gen WAF using Helm
 
-Note:  This repository is provided 'as-is' the community as a guide to deploying the Signal Sciences WAF detection within NGINX ingress via Helm.
+Note:  This repository is provided 'as-is' to the community as a guide to deploying the Signal Sciences WAF detection within NGINX ingress via Helm.
 
 ### Description:
 
